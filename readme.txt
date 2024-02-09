@@ -3,6 +3,8 @@ A Scube2-Shh feedback loop links morphogen release and spread to morphogen signa
 Zachary M. Collins, Anna Cha, Albert Qin, Kana Ishimatsu, Tony Y.C. Tsai, Ian A. Swinburne, Pulin Li, Sean G. Megason
 bioRxiv 469239; doi: https://doi.org/10.1101/469239
 
+These files are written by Albert Qin and Pulin Li
+
 here's what the various scripts do:
 
 +metrics: specifies various metrics 
