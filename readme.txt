@@ -1,3 +1,8 @@
+These are scripts used for modeling in the paper:
+A Scube2-Shh feedback loop links morphogen release and spread to morphogen signaling to enable scale invariant patterning of the ventral neural tube
+Zachary M. Collins, Anna Cha, Albert Qin, Kana Ishimatsu, Tony Y.C. Tsai, Ian A. Swinburne, Pulin Li, Sean G. Megason
+bioRxiv 469239; doi: https://doi.org/10.1101/469239
+
 here's what the various scripts do:
 
 +metrics: specifies various metrics 
